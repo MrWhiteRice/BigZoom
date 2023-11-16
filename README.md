@@ -1,6 +1,8 @@
 # BigZoom
 Unlimited zoom mod for Garden Galaxy
 
+[Example Gif Here](https://media1.giphy.com/media/p6Kx88KKnY1P4DMASp/giphy.gif)
+
 # Usage
 Scrollwheel: makes zoom out unlimited
 
